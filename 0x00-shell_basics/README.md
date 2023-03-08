@@ -4,3 +4,7 @@ ls: Will list the contents of your current directory.
 cd: Changes directory to user's home directory.
 ls -l: Displays current directory content in long format.
 ls -a: Displays current directory contents, including hidden files (starting with .). Use the long format.
+ls -na: Display current directory contents.
+	Long format
+	with user and group IDs displayed numerically
+	And hidden files (starting with .)
