@@ -13,3 +13,4 @@ mv /tmp/betty /tmp/my_first_directory: Moves the file betty from /tmp/ to /tmp/m
 rm /tmp/my_first_directory/betty: Deletes the file betty.
 rm -r /tmp/my_first_directory: Deletes the directory my_first_directory that is in the /tmp directory.
 cd ..: Changes the working directory to the previous one.
+ls -la /root/alx-system_engineering-devops0x00-shell_basics /root/alx-system_engineering-devops /boot: lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
