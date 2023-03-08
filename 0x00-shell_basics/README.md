@@ -8,3 +8,4 @@ ls -na: Display current directory contents.
 	Long format
 	with user and group IDs displayed numerically
 	And hidden files (starting with .)
+mkdir /tmp/my_first_directory/: creates a directory named my_first_directory in the /tmp/ directory.
