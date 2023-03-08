@@ -12,3 +12,4 @@ mkdir /tmp/my_first_directory/: Creates a directory named my_first_directory in 
 mv /tmp/betty /tmp/my_first_directory: Moves the file betty from /tmp/ to /tmp/my_first_directory.
 rm /tmp/my_first_directory/betty: Deletes the file betty.
 rm -r /tmp/my_first_directory: Deletes the directory my_first_directory that is in the /tmp directory.
+cd ..: Changes the working directory to the previous one.
