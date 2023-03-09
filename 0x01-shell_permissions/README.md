@@ -12,3 +12,4 @@ chmod -R 111 * /: Adds execute permission to all subdirectories of the current d
 mkdir -m 751 my_dir: Creates a directory called my_dir with permissions 751 in the working directory.
 chgrp school hello: Changes the group owner to school for the file hello.
 chmod vincent:staff * : Changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+chown -h vincent:hello _hello: Changes the owner and the group owner of _hello to vincent and staff respectively.
