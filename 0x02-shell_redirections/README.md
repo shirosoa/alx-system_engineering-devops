@@ -19,3 +19,4 @@ grep -A 3 root /etc/passwd: Displays lines containing the pattern “root” and
 grep -i "^[a-z]" /etc/ssh/sshd_config: Displays all lines of the file /etc/ssh/sshd_config starting with a letter.
 tr 'Ac' 'Ze': Replaces all characters A and c from input to Z and e respectively.
 tr -d 'cC': Removes all letters c and C from input.
+rev: Reverses its input.
