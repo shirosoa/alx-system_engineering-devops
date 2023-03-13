@@ -1,0 +1,2 @@
+./7-file: line 2: syntax error near unexpected token `)'
+./7-file: line 2: `echo "Best School" > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
