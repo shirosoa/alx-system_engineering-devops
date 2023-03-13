@@ -20,3 +20,4 @@ grep -i "^[a-z]" /etc/ssh/sshd_config: Displays all lines of the file /etc/ssh/s
 tr 'Ac' 'Ze': Replaces all characters A and c from input to Z and e respectively.
 tr -d 'cC': Removes all letters c and C from input.
 rev: Reverses its input.
+cut -d ':' -f 1,6 /etc/passwd | sort: Displays all users and their home directories, sorted by users.
